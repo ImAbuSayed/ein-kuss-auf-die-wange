@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-kuss-auf-die-wange/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Ein Kuss auf die Wange](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-kuss-auf-die-wange/) |
+| **Get License** | [Get a Licensing Quote for Ein Kuss auf die Wange](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-kuss-auf-die-wange/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ein Kuss auf die Wange, Babe, mach es nicht so schwer
+> Die City ist wach, doch ich will noch viel mehr
+> Steig ein in den Benz, wir verlier'n uns in der Nacht
+> Du weißt ganz genau, was dein Body mit mir macht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
