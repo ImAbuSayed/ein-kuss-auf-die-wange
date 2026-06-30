@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-kuss-auf-die-wange/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ein Kuss auf die Wange](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-kuss-auf-die-wange/) |
+| **Get License** | [Obtain a Music License for Ein Kuss auf die Wange](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-kuss-auf-die-wange/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2e187ca95f3f3cb73557de9ef930a4639bf02f121c9461b923887fbce433a646` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
